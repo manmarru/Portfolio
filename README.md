@@ -14,7 +14,13 @@
 >- [상세 구현 내역](Overview/EternalReturn_Overview.md)
 
 ## Mindustry 맵툴
+>- 2인 팀 작업
 >- MFC를 사용해서 맵툴을 만들어 보았습니다.
 >- 서버 공부를 하면서 채팅, 업로드/다운로드 기능도 추가적으로 넣어 보았습니다.
 >- [상세 구현 내역](Overview/Mindustry_Overview.md)
 
+## Riffle Effect 모작
+>- 3인 팀 작업
+>- DirectX9과 기본적인 랜더링 과정을 공부하면서 만들었습니다.
+>- 역할: 플레이어, 몬스터, 카메라
+>- [상세 구현 내역](Overview/RiffleEffect_Overview.md)
