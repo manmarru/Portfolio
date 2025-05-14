@@ -1,5 +1,5 @@
 # RiffleEffect_Overview
-- 리플 모작입니다.
+- 리플이펙트 모작입니다.
 
 # 작업 개요
 [유튜브 링크](https://youtu.be/jHPdbjX7jho?si=CZ7oG2c0FYhPH8Cy)
