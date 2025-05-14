@@ -74,19 +74,17 @@
    >- 닭  
    >- 들개  
    >- 박쥐  
-   >![image](https://github.com/user-attachments/assets/98399b00-45a5-40ef-9ea8-d2683e893faa)  
-- 플레이어를 쫓다가 스폰지점에서 멀리 떨어지면 체력을 전부 회복하고 원래 자리로 돌아갑니다.
-- 위클라인은 네 종류의 공격을 사용합니다.
-   >- 일반 공격
-   >- 플레이어가 멀어지면 돌진해서 추격합니다.
-   >- 반원 범위로 공격합니다.(화무십일홍)
-   >- 플레이어를 바라보고 공격을 충전한 뒤 쏩니다.
-- 야생동물들은 행동 트리를 사용하여 행동을 제어했습니다.
+   >![image](https://github.com/user-attachments/assets/9df1d9ce-f406-4ba6-89d5-284c9427e6f1)  
+- 플레이어를 쫓다가 스폰지점에서 멀리 떨어지면 체력을 전부 회복하고 원래 자리로 돌아갑니다.  
+- 위클라인은 네 종류의 공격을 사용합니다.  
+   >- 일반 공격  
+   >- 플레이어가 멀어지면 돌진해서 추격합니다.  
+   >- 반원 범위로 공격합니다.(화무십일홍)  
+   >- 플레이어를 바라보고 공격을 충전한 뒤 쏩니다.  
+- 야생동물들은 행동 트리를 사용하여 행동을 제어했습니다.  
 
 ### 이펙트
-![image](https://github.com/user-attachments/assets/46ee3e9a-a479-4e40-8430-5f90e879a213)
-![image](https://github.com/user-attachments/assets/c47490ec-21b3-4de6-ba9e-2115b7331e63)  
-
+![image](https://github.com/user-attachments/assets/d408f13e-d136-4df5-be8d-1ee269d9392c)   
+![image](https://github.com/user-attachments/assets/072efd4b-8405-4a9e-9edf-3446d34eb946)  
 - 블러와 글로우 효과를 넣어서 이펙트를 흐릿하게 번지고, 더 밝게 만들었습니다.
-![image](https://github.com/user-attachments/assets/9bbf2030-6d67-45a9-867d-3bb75dc92c9c)  
 - 트레일 이펙트를 만들었습니다.
