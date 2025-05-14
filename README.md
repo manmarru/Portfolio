@@ -3,7 +3,7 @@
 > [유튜브](https://youtube.com/channel/UC74CwCN5NoeGn50x9ei0guA?si=kvfRjc39nVvpICTE)와
 >  기술소개서
 >  로 전부 보여드리지 못한 구현사항들을 소개하고자 이 페이지를 만들었습니다.  
-> 이론이나 코딩테스트를 공부한 내용은 [벨로그@123fish](https://velog.io/@123fish/posts)에 정리했으며  
+> 이론적인 내용은 기술소개서와 [벨로그@123fish](https://velog.io/@123fish/posts)에 정리했으며  
 > 이곳에는 구현 위주로 소개되어 있습니다!
 
 ## Eternal Return 모작
