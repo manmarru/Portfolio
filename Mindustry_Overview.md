@@ -1,4 +1,7 @@
 # Mindustry(Maptool)_Overview
+우측에 목차 버튼을 누르면 편하게 보실 수 있습니다!
+![image](https://github.com/user-attachments/assets/47c7651a-d710-43d3-9f0b-e8a21c2d29eb)
+
 # 🗺️ 작업 개요
 [유튜브 링크](https://youtu.be/6f3Dh_f-bUI?si=luaAIkSgYBgvT8lV) / 
 [작업 계획 및 스케쥴](https://docs.google.com/spreadsheets/d/1bZk6VRwaPgibCmlTrZYsdJl5gqvpjnND-Cx6VtI6I94/edit?usp=sharing)
