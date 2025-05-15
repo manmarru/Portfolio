@@ -30,7 +30,7 @@
 ![image](https://github.com/user-attachments/assets/4d3c1aac-d7b0-4f41-b795-d9b5f71842ad)  
 
 
-- 아이템의 등급에 따라 뒷배경의 색이 달라집니다.
+- 아이템의 등급에 따라 아이콘 뒷배경의 색이 달라집니다.
    >- 일반: 투명
    >- 고급: 초록  
    >- 희귀: 파랑  
