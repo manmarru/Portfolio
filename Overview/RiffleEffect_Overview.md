@@ -29,8 +29,12 @@
 |스크립트UI|||
 
 # 세부 구현사항
+![SR_RiffleEffect_Final mp4_20250519_125022 770](https://github.com/user-attachments/assets/8fa3b16e-a194-4370-a8d9-7fc3ca5528a0)
+
 ### 플레이어 기능
 - 피버 모드  
+![131](https://github.com/user-attachments/assets/d90fd024-c4c4-418d-855a-1a4786f37367)
+![df19_125022 770](https://github.com/user-attachments/assets/9a7d0a0b-b6f0-4083-9cca-ccc128f5dd00)  
 > 공격을 적중시킬 때마다 게이지가 충전됩니다.  
 > 전부 충전되면 게이지가 점점 소모되며, 전부 소모할 때까지 무기가 강화됩니다.  
 
@@ -38,7 +42,8 @@
 - 라이플  
 > 마우스를 누르고 있으면 총을 연사합니다.  
 > 피버 모드에서는 연사속도가 올라갑니다.  
-- 스나이퍼  
+- 스나이퍼
+![SR_RiffleEffect_Final mp4_20250519_125336 858](https://github.com/user-attachments/assets/174f22e5-a0dc-4a2c-9d70-c90bb081449f)  
 > 우클릭하면 줌 인 모드가 됩니다.  
 > 총을 발사하면 반동으로 카메라가 위로 올라갑니다.  
 > 피버 모드에서는 반동이 줄어듭니다.  
@@ -46,10 +51,12 @@
 > 전방 범위에 있는 적들을 한번에 공격합니다.  
 
 ### 스킬
+![SR_RiffleEffect_Final mp4_20250519_125443 522](https://github.com/user-attachments/assets/9e08e547-8c8a-4b04-9eb0-7a1e5f60c655)  
 > 구르기를 사용하면 잠시 무적 상태가 됩니다.  
 > 방어막을 켜면 투사체 피격을 무효화합니다.
-> 수류탄을 던지는 힘을 모으고, 모은 힘 만큼 멀리 던집니다.
-   폭발하는 주변의 적들을 공격합니다.
+![image](https://github.com/user-attachments/assets/60aabeed-5ada-4b43-9b51-bc183fe4b8fb)  
+> 투척 게이지를 모으고, 모은 만큼 멀리 던집니다.
+   땅에 닿을 때 폭발해서 주변의 적들을 공격합니다.
 
 ### 카메라, 시점
 - 카메라  
@@ -66,6 +73,7 @@
 - 몬스터들이 서로 겹치지 않게 밀어내도록 했습니다.  
 
 ### 미니게임
+![image](https://github.com/user-attachments/assets/071bc216-6ac6-487d-8e84-6933de596443)  
 - ```길 건너기 게임```을 간단하게 구현했습니다.  
 - 적과 부딫히면 시작 위치로 돌아갑니다.  
 - 무지개 문어와 부딪히면 화면에 문어가 크게 뜨며 화면을 가립니다.  
