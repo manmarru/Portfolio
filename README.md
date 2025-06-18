@@ -3,9 +3,8 @@
 > [유튜브](https://youtube.com/channel/UC74CwCN5NoeGn50x9ei0guA?si=kvfRjc39nVvpICTE)와
 >  서류에 첨부된 **`기술소개서`**
 >  로 전부 보여드리지 못한 구현사항들을 소개하고자 이 페이지를 만들었습니다.  
-> 이론적인 내용은 기술소개서와 [벨로그@123fish](https://velog.io/@123fish/posts)에 정리되어 있습니다.
 > 
-> 이곳에는 기술 설명 없이 구현 기능들만 간단하게 소개하고 있습니다.
+> 기술 설명 없이 구현 기능들만 간단하게 소개하겠습니다.
 
 ## Eternal Return 모작
 >- DirectX11과 3D 쉐이딩을 공부하며 만들었습니다.
