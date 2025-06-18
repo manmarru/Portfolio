@@ -1,7 +1,7 @@
 # 소개
 > 안녕하세요! 게임 개발자를 꿈꾸고 있는 최승준입니다!  
 > [유튜브](https://youtube.com/channel/UC74CwCN5NoeGn50x9ei0guA?si=kvfRjc39nVvpICTE)와
->  **`기술소개서`**
+>  서류에 첨부된 **`기술소개서`**
 >  로 전부 보여드리지 못한 구현사항들을 소개하고자 이 페이지를 만들었습니다.  
 > 이론적인 내용은 기술소개서와 [벨로그@123fish](https://velog.io/@123fish/posts)에 정리되어 있습니다.
 > 
