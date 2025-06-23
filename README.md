@@ -1,3 +1,5 @@
+# 기술소개서에 없는 구현사항 소개만 있습니다. (기술적인 소개는 없습니다.)
+
 # 소개
 > 안녕하세요! 게임 개발자를 꿈꾸고 있는 최승준입니다!  
 > [유튜브](https://youtube.com/channel/UC74CwCN5NoeGn50x9ei0guA?si=kvfRjc39nVvpICTE)와
