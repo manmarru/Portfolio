@@ -58,11 +58,7 @@
 - 스킬의 남은 쿨타임이 표시됩니다. 남은 쿨타임 비율만큼 반시계 방향으로 아이콘을 어둡게 처리했습니다.
 ### 행동 UI
 ![image](https://github.com/user-attachments/assets/e2faa62c-cb7d-4d06-bbf4-15155ed982db)  
-- 아이템 제작 시 플레이어는 제작 중인 샹태가 되고 진행도 UI가 생성됩니다.
-  아이템 타입에 따라 제작 모션이 다릅니다.
-![image](https://github.com/user-attachments/assets/2225063e-23a8-46f1-9333-74f4b69f32dc)
-![image](https://github.com/user-attachments/assets/32bed7f6-3c89-4346-b98c-a7d681bc3fd1)
-![image](https://github.com/user-attachments/assets/0023a2b5-7371-41bc-a6da-82c89344c3b5)
+- 아이템 제작 시 플레이어는 제작 중인 샹태가 되고 진행도 UI가 생성됩니다.  
 - 스킬 종류에 따라 알맞은 캐스팅 UI가 제시됩니다.
 - 지형을 덮어씌우면서 출력하되, 동시에 플레이어나 몬스터같은 주요 객체를 가리지 않게 했습니다.
 
